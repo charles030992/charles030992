@@ -15,20 +15,20 @@
 <div style="background:#0d1117;padding:15px;border-radius:10px;border-left:4px solid #FFD700;width:80%;margin-bottom:20px">
   <blockquote style="margin:5px">
   <b>"La paciencia paga"</b>
-  <footer style="text-align:right;font-size:0.8em">- Warren Buffett</footer>
+  <footer style="text-align:right;font-size:0.8em">- Unknown</footer>
   </blockquote>
 </div>
 
 <div style="background:#0d1117;padding:15px;border-radius:10px;border-left:4px solid #32CD32;width:80%;margin-bottom:20px">
   <blockquote style="margin:5px">
   <b>"Compra con miedo, vende con codicia"</b>
-  <footer style="text-align:right;font-size:0.8em">- Propio</footer>
+  <footer style="text-align:right;font-size:0.8em">- Warren Buffett</footer>
   </blockquote>
 </div>
 
 <div style="background:#0d1117;padding:15px;border-radius:10px;border-left:4px solid #FF4500;width:80%">
   <blockquote style="margin:5px">
-  <b>"Bitcoin = Capitalismo tecnológico"</b>
+  <b>"El Bitcoin es Capitalismo hecho tecnología"</b>
   <footer style="text-align:right;font-size:0.8em">- Timothy C. May</footer>
   </blockquote>
 </div>
@@ -52,30 +52,12 @@
 
 
 
-<details>
-<summary>📚 <b style="color:#32CD32">Biblioteca Esencial</b></summary>
+## 🔮 **Libros recomendados**
+```diff
+- **El Inversor Inteligente** - Benjamin Graham  
+- **Security Analysis** - Graham & Dodd  
+- **The Bitcoin Standard** - Saifedean Ammous  
 
-<div style="background:#0d1117;padding:20px;border-radius:10px;margin-top:15px;border:1px solid #2d3436">
+> "El precio es lo que pagas, el valor es lo que recibes"  
+> ― Benjamin Graham
 
-### 🏆 Libros Canónicos
-- **<span style="color:#FFD700">El Inversor Inteligente</span>**  
-  *Benjamin Graham*  
-  `Value Investing | Análisis Fundamental`
-
-- **<span style="color:#32CD32">Security Analysis</span>**  
-  *Graham & Dodd*  
-  `Evaluación de Activos | Mercados`
-
-- **<span style="color:#FF4500">The Bitcoin Standard</span>**  
-  *Saifedean Ammous*  
-  `Economía BTC | Criptoanarquismo`
-
-<div align="center" style="margin-top:20px;padding:10px;background:#161b22;border-radius:8px">
-<blockquote style="margin:0;font-style:italic;color:#c8d6e5">
-"El precio es lo que pagas, el valor es lo que recibes"  
-<footer style="text-align:right">— Benjamin Graham</footer>
-</blockquote>
-</div>
-
-</div>
-</details>
