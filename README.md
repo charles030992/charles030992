@@ -4,26 +4,22 @@
   <img src="https://media.giphy.com/media/Ld77zD3fF3Run8olIt/giphy.gif" width="400">
 </div>
 
+<h1 align="center"> 
+  <img src="https://img.icons8.com/nolan/64/bitcoin.png" width="30"/> 
+  Carlos | Trader & Criptoanarquista 
+  <img src="https://img.icons8.com/nolan/64/anonymous-mask.png" width="30"/>
+</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Ld77zD3fF3Run8olIt/giphy.gif" width="450" style="border-radius:10px;border:2px solid #32CD32">
+</div>
+
 ```python
-def trading_jedi():
+def trading_philosophy():
     while True:
-        analyze_market()
-        if force_balance_changed():
-            execute_trade()
+        fundamental_analysis()
+        technical_analysis()
+        if market_irrational():
+            be_fearful()
         else:
-            meditate()
-
-<!--
-**charles030992/charles030992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+            be_greedy()
