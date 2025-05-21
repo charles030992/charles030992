@@ -52,27 +52,30 @@
 
 
 
-### 📖 **Libros Fundamentales**
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin-top: 15px">
+<details>
+<summary>📚 <b style="color:#32CD32">Biblioteca Esencial</b></summary>
 
-<div style="background:#161b22;padding:15px;border-radius:8px;border-left:3px solid #FFD700">
-  <b>El Inversor Inteligente</b><br>
-  <span style="color:#7f8c8d">Benjamin Graham</span>
+<div style="background:#0d1117;padding:20px;border-radius:10px;margin-top:15px;border:1px solid #2d3436">
+
+### 🏆 Libros Canónicos
+- **<span style="color:#FFD700">El Inversor Inteligente</span>**  
+  *Benjamin Graham*  
+  `Value Investing | Análisis Fundamental`
+
+- **<span style="color:#32CD32">Security Analysis</span>**  
+  *Graham & Dodd*  
+  `Evaluación de Activos | Mercados`
+
+- **<span style="color:#FF4500">The Bitcoin Standard</span>**  
+  *Saifedean Ammous*  
+  `Economía BTC | Criptoanarquismo`
+
+<div align="center" style="margin-top:20px;padding:10px;background:#161b22;border-radius:8px">
+<blockquote style="margin:0;font-style:italic;color:#c8d6e5">
+"El precio es lo que pagas, el valor es lo que recibes"  
+<footer style="text-align:right">— Benjamin Graham</footer>
+</blockquote>
 </div>
 
-<div style="background:#161b22;padding:15px;border-radius:8px;border-left:3px solid #32CD32">
-  <b>Security Analysis</b><br>
-  <span style="color:#7f8c8d">Graham & Dodd</span>
 </div>
-
-<div style="background:#161b22;padding:15px;border-radius:8px;border-left:3px solid #FF4500">
-  <b>The Bitcoin Standard</b><br>
-  <span style="color:#7f8c8d">Saifedean Ammous</span>
-</div>
-
-</div>
-
-<div style="margin-top:20px">
-```diff
-+ "El precio es lo que pagas, el valor es lo que recibes" - B. Graham
-</div></div>
+</details>
