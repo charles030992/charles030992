@@ -1,6 +1,6 @@
 <h1 align="center"> 
   <img src="https://img.icons8.com/nolan/64/bitcoin.png"/> 
-  Carlos | Trader & Criptoanarquista 
+  Carlos | Trader & Criptoanarquista & Blockchain Dev
   <img src="https://img.icons8.com/nolan/64/anonymous-mask.png"/>
 </h1>
 
