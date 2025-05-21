@@ -10,28 +10,31 @@
 
 ## 📜 **Sabiduría de los Mercados**
 
-<table align="center">
-<tr>
-<td width="33%" style="background:#0d1117;padding:15px;border-radius:10px;border-left:4px solid #FFD700">
+<div align="center" style="margin-bottom:30px">
+
+<div style="background:#0d1117;padding:15px;border-radius:10px;border-left:4px solid #FFD700;width:80%;margin-bottom:20px">
   <blockquote style="margin:5px">
   <b>"La paciencia paga"</b>
-  <footer style="text-align:right;font-size:0.8em">- Propio</footer>
-  </blockquote>
-</div>
-<td width="33%" style="background:#0d1117;padding:15px;border-radius:10px;border-left:4px solid #32CD32">
-  <blockquote style="margin:5px">
-  <b>"Compra con miedo, vende con codicia"</b>
   <footer style="text-align:right;font-size:0.8em">- Warren Buffett</footer>
   </blockquote>
 </div>
-<td width="33%" style="background:#0d1117;padding:15px;border-radius:10px;border-left:4px solid #FF4500">
+
+<div style="background:#0d1117;padding:15px;border-radius:10px;border-left:4px solid #32CD32;width:80%;margin-bottom:20px">
+  <blockquote style="margin:5px">
+  <b>"Compra con miedo, vende con codicia"</b>
+  <footer style="text-align:right;font-size:0.8em">- Propio</footer>
+  </blockquote>
+</div>
+
+<div style="background:#0d1117;padding:15px;border-radius:10px;border-left:4px solid #FF4500;width:80%">
   <blockquote style="margin:5px">
   <b>"Bitcoin = Capitalismo tecnológico"</b>
   <footer style="text-align:right;font-size:0.8em">- Timothy C. May</footer>
   </blockquote>
 </div>
+
 </div>
-</table>
+
 
 ## 📊 **Filosofía de Inversión**
   
@@ -48,11 +51,6 @@
 
 
 
-
-<details>
-<summary>📚 <b style="color:#32CD32">Biblioteca Esencial del Trader</b></summary>
-
-<div style="background:#0d1117;padding:20px;border-radius:10px;margin-top:15px;border:1px solid #2d3436">
 
 ### 📖 **Libros Fundamentales**
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin-top: 15px">
@@ -77,4 +75,4 @@
 <div style="margin-top:20px">
 ```diff
 + "El precio es lo que pagas, el valor es lo que recibes" - B. Graham
-</div></div> </details>
+</div></div>
