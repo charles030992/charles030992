@@ -61,6 +61,20 @@ Currently completing the **Alchemy Academy** path and experimenting with the Sol
 
 ## 🚧 Featured Projects (Storytelling Path)
 
+### 🔹 **TruffedMethod — Governance dApp for Value Investing**
+Capstone project developed as part of the Alchemy Academy Blockchain Developer program.
+TruffedMethod is a Web3 governance application that enables decentralized proposals and voting for classifying and managing stock portfolios based on community consensus.
+
+🔧 Technical Highlights
+
+Smart Contracts with Solidity + Truffle for proposal lifecycle and voting logic
+
+Frontend dApp built with JavaScript, HTML/CSS and Web3.js
+
+Role-based access (creator, voter, investor) and token-weighted voting
+
+Fully on-chain governance flow, simulating real-world investment decision-making
+
 ### 🔹 **SolfaCoin (ERC-20)**
 My first deployed token — understanding ABI, gas usage, deployment flows  
 and Ethereum interactions.
