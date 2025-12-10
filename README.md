@@ -65,7 +65,7 @@ Currently completing the **Alchemy Academy** path and experimenting with the Sol
 My first deployed token — understanding ABI, gas usage, deployment flows  
 and Ethereum interactions.
 
-👉 Repo: *add link*
+
 
 ---
 
@@ -73,21 +73,21 @@ and Ethereum interactions.
 A structured Solidity project designed to learn randomness, fairness,  
 and future integration with Chainlink VRF.
 
-👉 Repo: *add link*
+
 
 ---
 
 ### 🔹 **NFTs – SolfaChuzas (ERC-721)**
 Exploring NFT minting, metadata, collection design and modular contract structure.
 
-👉 Repo: *add link*
+
 
 ---
 
 ### 🔹 **Python Automation Bots**
 Early background in scripting, automation and system tools.
 
-👉 Repos: *add links*
+
 
 ---
 
