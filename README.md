@@ -1,149 +1,59 @@
-<h1 align="center">Hi, I'm Charles M. 🧡⚡</h1>
-<h3 align="center">Blockchain Developer · Smart Contracts · Bitcoin Mindset · Web3 & Solana Builder</h3>
-
-<p align="center"><i>"Code, Bitcoin, and curiosity."</i></p>
+<h1 align="center">Hola, soy Charles M.</h1>
+<h3 align="center">Economista · Back office y análisis de datos · Automatización · Mercados financieros</h3>
 
 ---
 
-## 🧭 About Me
-I’m a blockchain developer with a **Bitcoin foundation**, a **Web3 builder spirit**,  
-and the discipline of a Mandalorian:
+## Sobre mí
 
-> *"Piece by piece, block by block — this is the way of clean code, decentralization and continuous learning."*
+Economista con experiencia en back office, administración y análisis de datos (Excel avanzado, Power BI, SQL y Python). Llevo años formándome en mercados financieros —análisis fundamental, análisis técnico y gestión de carteras— y quiero desarrollar mi carrera en ese sector.
 
-My background started in Python and automation, and evolved into **Solidity, JavaScript,  
-Smart Contract development, Solana, and decentralized architectures**.
+Me interesa el cruce entre **datos, procesos y mercados**: automatizar lo repetitivo, medir bien y decir con claridad qué se sabe y qué no. Uso la IA como herramienta de trabajo, no como sustituto del criterio.
 
-I build in Ethereum, Solana and TON applying the core principles learned from Bitcoin:  
-**descentralización, privacidad, incentivos, verificación y seguridad**.
+Estoy abierto a oportunidades en **operativa, back office o análisis dentro del sector financiero**.
 
-Currently completing the **Alchemy Academy** path and experimenting with the Solana ecosystem  
-(Anchor, program-model, accounts system).
+## Proyectos
 
----
+### Finanzas e inversión
 
-## 🛠️ Tech Stack
+| Proyecto | Qué es |
+|---|---|
+| [**truffhed-method**](https://github.com/charles030992/truffhed-method) | Método de análisis fundamental *value investing* conservador (Buffett, Munger, Graham): puntuación sobre 5 bloques de calidad y valoración solo si la calidad lo permite. Incluye script de datos con yfinance. |
+| [**btc-vs-nasdaq**](https://github.com/charles030992/btc-vs-nasdaq) | Comparación de Bitcoin con el Nasdaq-100: rentabilidad, volatilidad, drawdown y Sharpe. Documenta un error de calendario que inflaba el CAGR de BTC y cómo se corrigió, con tests. |
+| [**DCA-simulator**](https://github.com/charles030992/DCA-simulator) | Simulador histórico de DCA con datos de Yahoo Finance: CAGR, drawdown máximo y exportación a CSV. |
 
-### 🧡 Bitcoin Layer
-- Protocol fundamentals: UTXO model, PoW, fee markets & incentives  
-- Philosophical backbone for decentralization and trust-minimized systems  
-- Hybrid profile: Bitcoin principles applied to EVM/SVM development  
+### Datos y automatización
 
-### 🟦 Ethereum / EVM
-- Solidity · Hardhat · Ethers.js · Web3.js  
-- ERC-20 · ERC-721 · governance · upgradeability  
-- Security principles: reentrancy, gas optimization, access control  
-- Chainlink: VRF · Automation · Data Feeds  
-- dApps & interactions with JS
+| Proyecto | Qué es |
+|---|---|
+| [**sql-for-automation**](https://github.com/charles030992/sql-for-automation) | Pipeline SQL → pandas → informe Excel de varias hojas sobre datos de flota (ficticios), con tests. |
+| [**web3-agent**](https://github.com/charles030992/web3-agent) | Agente de IA en Python con un modelo local (Ollama): el backend controla el flujo y el modelo solo redacta la respuesta. Con API y tests. |
+| [**home-inventory-bot**](https://github.com/charles030992/home-inventory-bot) | Pregunta dónde está cada cosa de casa: inventario en Excel, consola y bot de Telegram solo para usuarios autorizados. |
 
-### 🟣 Solana / SVM Ecosystem
-- Understanding of **parallelized architecture and accounts model**  
-- Writing small Solana programs using **Rust + Anchor (in progress)**  
-- PDA, CPI, program architecture  
-- On-chain logic patterns unique to Solana
+### Análisis geoespacial
 
-### 🐍 Backend & Automation
-- Python (APIs, bots, data automation)  
-- Node.js · Express
+| Proyecto | Qué es |
+|---|---|
+| [**arcgis-yolo-infraestructuras**](https://github.com/charles030992/arcgis-yolo-infraestructuras) | Foto de obra → detección de objetos con YOLO → punto georreferenciado en ArcGIS Online. |
+| [**cobertura-itv-madrid**](https://github.com/charles030992/cobertura-itv-madrid) | Cobertura de estaciones ITV frente a zonas industriales de la Comunidad de Madrid, con ArcGIS Online y Arcade. |
 
-### 🤖 AI-Enhanced Development
-- Advanced usage of ChatGPT + VS Code AI workflows  
-- Automated testing, refactoring and documentation  
-- Gas & performance optimization assisted by IA  
-- AI for debugging and code-review workflows
+### Web3 (proyectos técnicos complementarios)
 
-### 🧰 Tools
-- Git · GitHub  
-- Hardhat · Docker · Linux  
-- VS Code  
+| Proyecto | Qué es |
+|---|---|
+| [**TruffedMethod**](https://github.com/charles030992/TruffedMethod) | DApp de gobernanza: la comunidad propone y vota si una empresa es *Value Investing*, *Trading* u *Overvalued*. Un voto por dirección, quórum y mayoría. Solidity, Hardhat, React y Wagmi; el campo de análisis enlaza con *truffhed-method*. |
+| [**LotteryBros**](https://github.com/charles030992/LotteryBros) · [**SolfaCoin**](https://github.com/charles030992/SolfaCoin) · [**NFTs-SolfaChuzas**](https://github.com/charles030992/NFTs-SolfaChuzas) · [**solfa-team-indexer**](https://github.com/charles030992/solfa-team-indexer) | Contratos y herramientas para un equipo de baloncesto y un grupo de amigos: pool de lotería multifirma, token ERC-20, NFTs ERC-721 de los jugadores y reparto de tokens. |
 
----
+## Cómo trabajo
 
-## 🚧 Featured Projects (Storytelling Path)
+- Los proyectos recientes llevan **tests**, **limitaciones documentadas** y datos de ejemplo **ficticios**.
+- Si encuentro un error en mi propio trabajo, lo corrijo y lo dejo escrito (por ejemplo, en el README de *btc-vs-nasdaq*).
+- Nada de lo que publico es asesoramiento financiero.
 
-### 🔹 **TruffedMethod — Governance dApp for Value Investing**
-Capstone project developed as part of the Alchemy Academy Blockchain Developer program.
-TruffedMethod is a Web3 governance application that enables decentralized proposals and voting for classifying and managing stock portfolios based on community consensus.
+## Tecnologías
 
-🔧 Technical Highlights
+Python · SQL · pandas · Excel · Power BI · yfinance · ArcGIS API for Python · YOLO · Solidity · Hardhat · TypeScript · React · Git
 
-Smart Contracts with Solidity + Truffle for proposal lifecycle and voting logic
+## Contacto
 
-Frontend dApp built with JavaScript, HTML/CSS and Web3.js
-
-Role-based access (creator, voter, investor) and token-weighted voting
-
-Fully on-chain governance flow, simulating real-world investment decision-making
-
-### 🔹 **SolfaCoin (ERC-20)**
-My first deployed token — understanding ABI, gas usage, deployment flows  
-and Ethereum interactions.
-
-
-
----
-
-### 🔹 **LotteryBros — Smart Contract Lottery**
-A structured Solidity project designed to learn randomness, fairness,  
-and future integration with Chainlink VRF.
-
-
-
----
-
-### 🔹 **NFTs – SolfaChuzas (ERC-721)**
-Exploring NFT minting, metadata, collection design and modular contract structure.
-
-
-
----
-
-### 🔹 **Python Automation Bots**
-Early background in scripting, automation and system tools.
-
-
-
----
-
-## 🧪 What I'm Currently Learning
-- Full Alchemy Academy roadmap  
-- Chainlink CCIP, VRF & advanced Oracle patterns  
-- Solana program development (Rust + Anchor)  
-- Web3 full-stack (Next.js + Ethers.js + Hardhat)  
-- Foundry testing  
-- TON experiments  
-
----
-
-## 🎯 Roadmap 2025
-- Launch a full production-level dApp  
-- Integrate Chainlink VRF in LotteryBros  
-- Deploy NFT Minting DApp  
-- Build and publish my first Solana program  
-- Contribute to an open-source repo (Bitcoin, Solana or Ethereum)  
-- Achieve a Junior Blockchain Developer role (MADBIT or remote)
-
----
-
-## 🧡 Why Me?
-Because I'm a **bitcoiner at the core**, a **pragmatic builder**,  
-and a Mandalorian in discipline:
-
-- I build every day  
-- I combine Bitcoin philosophy with EVM/SVM execution  
-- I use IA as a force multiplier  
-- I verify everything  
-- I grow fast and adapt even faster  
-
-> *"This is the way."*
-
----
-
-## 📫 Contact
-- **GitHub:** https://github.com/charles030992  
-- **LinkedIn:** www.linkedin.com/in/charles-m-d-30b7233a0  
-- **Open to:** Junior Blockchain Developer · Solidity · Web3 · Solana
-
----
-
-<p align="center"><strong>Thanks for visiting — building every day.</strong></p>
+- LinkedIn: [charles-m-d](https://www.linkedin.com/in/charles-m-d-30b7233a0)
+- GitHub: [charles030992](https://github.com/charles030992)
